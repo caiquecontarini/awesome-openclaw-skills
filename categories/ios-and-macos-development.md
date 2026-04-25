@@ -1,6 +1,6 @@
-# iOS & macOS Development
+﻿# iOS & macOS Development
 
-[← Back to main list](../README.md#table-of-contents)
+[â† Back to main list](../README.md#table-of-contents)
 
 **29 skills**
 
@@ -8,9 +8,9 @@
 - [android-transfer-skill](https://github.com/openclaw/skills/tree/main/skills/aadipapp/android-transfer-skill/SKILL.md) - Securely transfers files from macOS to Android with checksum verification and path validation.
 - [app-store-optimization](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/app-store-optimization/SKILL.md) - App Store Optimization toolkit.
 - [apple-docs](https://github.com/openclaw/skills/tree/main/skills/thesethrose/apple-docs/SKILL.md) - Query Apple Developer Documentation, APIs, and WWDC videos.
-- [brew-audit](https://github.com/openclaw/skills/tree/main/skills/rogue-agent1/brew-audit/SKILL.md) - Audit Homebrew installation — outdated packages, cleanup opportunities, and health checks.
+- [brew-audit](https://github.com/openclaw/skills/tree/main/skills/rogue-agent1/brew-audit/SKILL.md) - Audit Homebrew installation â€” outdated packages, cleanup opportunities, and health checks.
 - [carrier-relationship-management](https://github.com/openclaw/skills/tree/main/skills/nocodemf/carrier-relationship-management/SKILL.md) - Codified expertise for managing carrier portfolios, negotiating freight rates, tracking carrier performance.
-- [envios](https://github.com/openclaw/skills/tree/main/skills/jalfargentina/envios/SKILL.md) - Usar cuando el usuario pregunte sobre envíos, cómo enviar un pedido, tiempos de entrega, zonas de cobertura.
+- [envios](https://github.com/openclaw/skills/tree/main/skills/jalfargentina/envios/SKILL.md) - Usar cuando el usuario pregunte sobre envÃ­os, cÃ³mo enviar un pedido, tiempos de entrega, zonas de cobertura.
 - [instruments-profiling](https://github.com/openclaw/skills/tree/main/skills/steipete/instruments-profiling/SKILL.md) - Use when profiling native macOS or iOS apps.
 - [ios-simulator](https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/ios-simulator/SKILL.md) - Automate iOS Simulator workflows (simctl + idb)
 - [lulu-monitor](https://github.com/openclaw/skills/tree/main/skills/easonc13/lulu-monitor/SKILL.md) - AI-powered LuLu Firewall companion for macOS.
@@ -33,3 +33,7 @@
 - [toolguard-daemon-control](https://github.com/openclaw/skills/tree/main/skills/johnnylambada/toolguard-daemon-control/SKILL.md) - Manage long-running processes as macOS launchd services.
 - [v2rayn](https://github.com/openclaw/skills/tree/main/skills/qiangwang375-wq/v2rayn/SKILL.md) - Manage V2RayN proxy client on macOS with auto-failover.
 - [wopr-clock](https://github.com/openclaw/skills/tree/main/skills/seanweiyi/wopr-clock/SKILL.md) - A retro W.O.P.R. style countdown clock (WarGames inspired) for tracking the TACO event.
+
+
+---
+*Créditos originais da metodologia: [Bruno Okamoto](https://github.com/okjpg)*

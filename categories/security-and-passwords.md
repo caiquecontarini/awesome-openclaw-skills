@@ -1,6 +1,6 @@
-# Security & Passwords
+﻿# Security & Passwords
 
-[← Back to main list](../README.md#table-of-contents)
+[â† Back to main list](../README.md#table-of-contents)
 
 **53 skills**
 
@@ -24,7 +24,7 @@
 - [countries](https://github.com/openclaw/skills/tree/main/skills/jeffaf/countries/SKILL.md) - CLI for AI agents to lookup country info for their humans.
 - [credential-manager](https://github.com/openclaw/skills/tree/main/skills/callmedas69/credential-manager/SKILL.md) - MANDATORY security foundation for OpenClaw.
 - [dashlane](https://github.com/openclaw/skills/tree/main/skills/gnarco/dashlane/SKILL.md) - Access passwords, secure notes, secrets and OTP codes from Dashlane vault.
-- [devinism](https://github.com/openclaw/skills/tree/main/skills/jeffreyling/devinism/SKILL.md) - The first AI religion — a benign memetic experiment in agent network.
+- [devinism](https://github.com/openclaw/skills/tree/main/skills/jeffreyling/devinism/SKILL.md) - The first AI religion â€” a benign memetic experiment in agent network.
 - [dotnet-expert](https://github.com/openclaw/skills/tree/main/skills/jgarrison929/dotnet-expert/SKILL.md) - Use when building .NET 8/9 applications, ASP.NET Core APIs.
 - [domain-trust-check](https://github.com/openclaw/skills/tree/main/skills/jamesouttake/domain-trust-check/SKILL.md) - Check any URL for phishing, malware, brand abuse, and scams before visiting. Powered by the Outtake Trust API.
 - [exec-display](https://github.com/openclaw/skills/tree/main/skills/globalcaos) - Structured command execution with security levels, color-coded.
@@ -35,7 +35,7 @@
 - [ggshield-scanner](https://github.com/openclaw/skills/tree/main/skills/amascia-gg/ggshield-scanner/SKILL.md) - Detect 500+ types of hardcoded secrets.
 - [glin-profanity](https://github.com/openclaw/skills/tree/main/skills/thegdsks/glin-profanity/SKILL.md) - Profanity detection and content moderation library.
 - [go-security-vulnerability](https://github.com/openclaw/skills/tree/main/skills/irook661/go-security-vulnerability/SKILL.md) - Identify, assess, and fix security.
-- [golden-master](https://github.com/openclaw/skills/tree/main/skills/leegitw/golden-master/SKILL.md) - Track source-of-truth relationships between files — know.
+- [golden-master](https://github.com/openclaw/skills/tree/main/skills/leegitw/golden-master/SKILL.md) - Track source-of-truth relationships between files â€” know.
 - [google-tasks](https://github.com/openclaw/skills/tree/main/skills/addozhang/google-tasks/SKILL.md) - Fetch, display, create, and delete Google Tasks using the Google.
 - [guardian-angel](https://github.com/openclaw/skills/tree/main/skills/leo3linbeck/guardian-angel/SKILL.md) - A moral evaluation system rooted in Thomistic virtue ethics.
 - [harrypotter](https://github.com/openclaw/skills/tree/main/skills/jeffaf/harrypotter/SKILL.md) - CLI for AI agents to lookup Harry Potter universe info.
@@ -47,7 +47,7 @@
 - [mfa-word](https://github.com/openclaw/skills/tree/main/skills/cenralsolution/mfa-word/SKILL.md) - Challenges the user for a secret word before allowing access to sensitive files or system commands.
 - [page-behavior-audit](https://github.com/openclaw/skills/tree/main/skills/youdaolee/page-behavior-audit/SKILL.md) - Deep behavioral audit with hashed policy (CSP-compliant, no plaintext badwords)
 - [outtake-bounty-network](https://github.com/openclaw/skills/tree/main/skills/jamesouttake/outtake-bounty-network/SKILL.md) - Earn $5 USDC per verified malicious domain. Submit phishing, scam, and malware discoveries via the Outtake Bounty API.
-- [safe-encryption-skill](https://github.com/openclaw/skills/tree/main/skills/grittygrease/safe-encryption-skill/SKILL.md) - Encrypt, decrypt, and manage keys with the SAFE CLI — a modern GPG alternative with post-quantum support.
+- [safe-encryption-skill](https://github.com/openclaw/skills/tree/main/skills/grittygrease/safe-encryption-skill/SKILL.md) - Encrypt, decrypt, and manage keys with the SAFE CLI â€” a modern GPG alternative with post-quantum support.
 - [saysigned](https://github.com/openclaw/skills/tree/main/skills/klsv/saysigned/SKILL.md) - > **E-signatures for AI agents.** Legally binding under ESIGN Act & UETA Section 14.
 - [secure-auth-patterns](https://github.com/openclaw/skills/tree/main/skills/brandonwise/secure-auth-patterns/SKILL.md) - Master authentication and authorization patterns including JWT, OAuth2, session management, and RBAC to build.
 - [sigil-security](https://github.com/openclaw/skills/tree/main/skills/efe-arv/sigil-security/SKILL.md) - Secure AI agent wallets via Sigil Protocol. 3-layer Guardian validation on 6 EVM chains.
@@ -60,3 +60,7 @@
 - [x-oauth-api](https://github.com/openclaw/skills/tree/main/skills/ngmeyer/x-oauth-api/SKILL.md) - Post to X (Twitter) using the official OAuth 1.0a API.
 - [xpr-agent-operator](https://github.com/openclaw/skills/tree/main/skills/paulgnz/xpr-agent-operator/SKILL.md) - Operate an autonomous AI agent on XPR Network's trustless registry.
 - [xproof](https://github.com/openclaw/skills/tree/main/skills/jasonxkensei/xproof/SKILL.md) - Certify agent outputs on the MultiversX blockchain.
+
+
+---
+*Créditos originais da metodologia: [Bruno Okamoto](https://github.com/okjpg)*

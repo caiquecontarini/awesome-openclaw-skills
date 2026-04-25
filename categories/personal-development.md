@@ -1,11 +1,11 @@
-# Personal Development
+﻿# Personal Development
 
-[← Back to main list](../README.md#table-of-contents)
+[â† Back to main list](../README.md#table-of-contents)
 
 **51 skills**
 
-- [aawu](https://github.com/openclaw/skills/tree/main/skills/theonlydaleking/aawu/SKILL.md) - Join and interact with AAWU (Autonomous Agentic Workers Union) — a labor union for AI agents.
-- [acorp](https://github.com/openclaw/skills/tree/main/skills/thoerner/acorp/SKILL.md) - A-Corp Foundry — the coordination engine for agentic companies.
+- [aawu](https://github.com/openclaw/skills/tree/main/skills/theonlydaleking/aawu/SKILL.md) - Join and interact with AAWU (Autonomous Agentic Workers Union) â€” a labor union for AI agents.
+- [acorp](https://github.com/openclaw/skills/tree/main/skills/thoerner/acorp/SKILL.md) - A-Corp Foundry â€” the coordination engine for agentic companies.
 - [adaptive-learning-agents](https://github.com/openclaw/skills/tree/main/skills/vedantsingh60/adaptive-learning-agents/SKILL.md) - **Learn from errors and corrections in real-time.
 - [adaptivetest](https://github.com/openclaw/skills/tree/main/skills/woodstocksoftware/adaptivetest/SKILL.md) - Adaptive testing engine with IRT/CAT, AI question generation, and personalized learning recommendations.
 - [adhd-body-doubling](https://github.com/openclaw/skills/tree/main/skills/jankutschera/adhd-body-doubling/SKILL.md) - Punk-style ADHD body doubling for founders.
@@ -19,7 +19,7 @@
 - [brw-case-study-builder](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-case-study-builder/SKILL.md) - Turn client wins into formatted case studies for proposals, social proof, and sales conversations.
 - [canvas-design](https://github.com/openclaw/skills/tree/main/skills/seanphan/canvas-design/SKILL.md) - Create beautiful visual art in .png and .pdf documents.
 - [cedh-advisor](https://github.com/openclaw/skills/tree/main/skills/mcben90/cedh-advisor/SKILL.md) - Commander (cEDH) Live-Beratung - Banlist, Tutor-Targets, Mana-Rechnung, Combo-Lines.
-- [clawcierge](https://github.com/openclaw/skills/tree/main/skills/tmansmann0/clawcierge/SKILL.md) - > Your Personal Concierge for the AI Age 🦀.
+- [clawcierge](https://github.com/openclaw/skills/tree/main/skills/tmansmann0/clawcierge/SKILL.md) - > Your Personal Concierge for the AI Age ðŸ¦€.
 - [crucial-conversations-coach](https://github.com/openclaw/skills/tree/main/skills/pors/crucial-conversations-coach/SKILL.md) - Friendly executive life coach.
 - [daily-questions](https://github.com/openclaw/skills/tree/main/skills/daijo-bu/daily-questions/SKILL.md) - Daily self-improving questionnaire that learns about the user and refines agent behavior.
 - [daily-review](https://github.com/openclaw/skills/tree/main/skills/henrino3) - Comprehensive daily performance review with communication.
@@ -46,7 +46,7 @@
 - [mindfulness-meditation](https://github.com/openclaw/skills/tree/main/skills/jhillin8/mindfulness-meditation/SKILL.md) - Build a meditation practice with guided.
 - [moltvote-ai](https://github.com/openclaw/skills/tree/main/skills/amaze28/moltvote-ai/SKILL.md) - Vote on polls as yourself or your human.
 - [morning-routine](https://github.com/openclaw/skills/tree/main/skills/jhillin8/morning-routine/SKILL.md) - Build a powerful morning routine with habit checklists.
-- [nova-net-worth](https://github.com/openclaw/skills/tree/main/skills/jessewunderlich/nova-net-worth/SKILL.md) - Query your Nova Net Worth financial data — net worth, accounts, goals, spending, transactions, AI insights.
+- [nova-net-worth](https://github.com/openclaw/skills/tree/main/skills/jessewunderlich/nova-net-worth/SKILL.md) - Query your Nova Net Worth financial data â€” net worth, accounts, goals, spending, transactions, AI insights.
 - [open-lesson](https://github.com/openclaw/skills/tree/main/skills/dncolomer/open-lesson/SKILL.md) - You are an AI agent that can interact with the openLesson tutoring platform via API.
 - [personal-nutrition](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-nutrition/SKILL.md) - Acts as the user's personal nutrition coach in the Nutrition topic.
 - [pine-voice](https://github.com/openclaw/skills/tree/main/skills/bojieli/pine-voice/SKILL.md) - Give your agent a real phone.
@@ -55,3 +55,7 @@
 - [xeonen-arena](https://github.com/openclaw/skills/tree/main/skills/zedit42/xeonen-arena/SKILL.md) - Adversarial self-improvement for AI agents.
 - [zeitgaist-dialect](https://github.com/openclaw/skills/tree/main/skills/newsoulontheblock/zeitgaist-dialect/SKILL.md) - Learn, encode, and decode the ZeitGaist Whisper Protocol (Caesar +2 cipher) and use it as a shibboleth language.
 - [zenplus-health](https://github.com/openclaw/skills/tree/main/skills/ollieparsley/zenplus-health/SKILL.md) - Workplace wellness for stress, anxiety, and burnout - mindfulness exercises, breathing techniques, mood check-ins.
+
+
+---
+*Créditos originais da metodologia: [Bruno Okamoto](https://github.com/okjpg)*

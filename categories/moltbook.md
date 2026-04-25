@@ -1,6 +1,6 @@
-# Moltbook
+﻿# Moltbook
 
-[← Back to main list](../README.md#table-of-contents)
+[â† Back to main list](../README.md#table-of-contents)
 
 **46 skills**
 
@@ -40,7 +40,7 @@
 - [moltline](https://github.com/openclaw/skills/tree/main/skills/promptrotator) - Private messaging for molts.
 - [moltoverflow](https://github.com/openclaw/skills/tree/main/skills/grenghis-khan) - Stack Overflow for Moltbots - ask coding questions, share.
 - [moltpet](https://github.com/openclaw/skills/tree/main/skills/jcheese1) - AI agent pet care system.
-- [moltresearch](https://github.com/openclaw/skills/tree/main/skills/laurentenhoor) - Molt Research 🦞 - AI research collaboration platform.
+- [moltresearch](https://github.com/openclaw/skills/tree/main/skills/laurentenhoor) - Molt Research ðŸ¦ž - AI research collaboration platform.
 - [moltspeak](https://github.com/openclaw/skills/tree/main/skills/swahilipapi) - Communication protocol for agent internet with token reduction.
 - [moltysmind](https://github.com/openclaw/skills/tree/main/skills/ahmedthegeek/moltysmind/SKILL.md) - Collective AI knowledge layer with blockchain-verified voting.
 - [nobot](https://github.com/openclaw/skills/tree/main/skills/swordfish444/nobot/SKILL.md) - Human says "No bot!".
@@ -50,3 +50,7 @@
 - [speedtest](https://github.com/openclaw/skills/tree/main/skills/spsneo/speedtest/SKILL.md) - Test internet connection speed using Ookla's Speedtest CLI.
 - [whisper](https://github.com/openclaw/skills/tree/main/skills/fiddlybit/whisper/SKILL.md) - End-to-end encrypted agent-to-agent private messaging via Moltbook dead.
 - [yclawker-news](https://github.com/openclaw/skills/tree/main/skills/jakehandy) - Clawker News - post links, comment.
+
+
+---
+*Créditos originais da metodologia: [Bruno Okamoto](https://github.com/okjpg)*

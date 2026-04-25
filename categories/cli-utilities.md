@@ -1,6 +1,6 @@
-# CLI Utilities
+﻿# CLI Utilities
 
-[← Back to main list](../README.md#table-of-contents)
+[â† Back to main list](../README.md#table-of-contents)
 
 **186 skills**
 
@@ -24,12 +24,12 @@
 - [askhuman](https://github.com/openclaw/skills/tree/main/skills/hagiss/askhuman/SKILL.md) - Human Judgment as a Service for AI agents.
 - [audit-code](https://github.com/openclaw/skills/tree/main/skills/itsnishi/audit-code/SKILL.md) - Security-focused code review for hardcoded secrets, dangerous calls, and common vulnerabilities.
 - [bandwidth-income](https://github.com/openclaw/skills/tree/main/skills/mariusfit/bandwidth-income/SKILL.md) - Turn your unused internet bandwidth into passive crypto income.
-- [behavioral-invariant-monitor](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/behavioral-invariant-monitor/SKILL.md) - Helps verify that AI agent skills maintain consistent behavioral invariants across repeated executions — detecting.
+- [behavioral-invariant-monitor](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/behavioral-invariant-monitor/SKILL.md) - Helps verify that AI agent skills maintain consistent behavioral invariants across repeated executions â€” detecting.
 - [box-cli](https://github.com/openclaw/skills/tree/main/skills/hbkwong/box-cli/SKILL.md) - Box CLI skill for working with files, folders, metadata,.
 - [brew-install](https://github.com/openclaw/skills/tree/main/skills/xejrax/brew-install/SKILL.md) - Install missing binaries via dnf (Fedora/Bazzite package manager).
 - [bun-runtime](https://github.com/openclaw/skills/tree/main/skills/rabin-thami/bun-runtime/SKILL.md) - Bun runtime capabilities for filesystem, process.
 - [cabin-sol](https://github.com/openclaw/skills/tree/main/skills/sp0oby/cabin-sol/SKILL.md) - Solana development tutor and builder.
-- [cacheforge-stats](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/cacheforge-stats/SKILL.md) - CacheForge terminal dashboard — usage, savings, and performance metrics.
+- [cacheforge-stats](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/cacheforge-stats/SKILL.md) - CacheForge terminal dashboard â€” usage, savings, and performance metrics.
 - [camsnap](https://github.com/openclaw/skills/tree/main/skills/steipete/camsnap/SKILL.md) - Capture frames or clips from RTSP/ONVIF cameras.
 - [canvas-lms](https://github.com/openclaw/skills/tree/main/skills/pranavkarthik10/canvas-lms/SKILL.md) - Access Canvas LMS (Instructure) for course data, assignments.
 - [captcha-ai](https://github.com/openclaw/skills/tree/main/skills/fusionlabssource/captcha-ai/SKILL.md) - Issue ClawPrint reverse-CAPTCHA challenges to verify.
@@ -52,8 +52,8 @@
 - [consensus-interact](https://github.com/openclaw/skills/tree/main/skills/kaicianflone/consensus-interact/SKILL.md) - Use the open-source @consensus-tools/consensus-tools engine to run multi-LLM policy-based decision workflows: post.
 - [context-compactor](https://github.com/openclaw/skills/tree/main/skills/emberdesire/context-compactor/SKILL.md) - Token-based context compaction for local models (MLX, llama.cpp, Ollama) that don't report context limits.
 - [context-sentinel](https://github.com/openclaw/skills/tree/main/skills/nietzsche247/context-sentinel/SKILL.md) - Monitors session context and automatically manages model switching based on a cascading protocol.
-- [contextkeeper](https://github.com/openclaw/skills/tree/main/skills/gopinathnelluri/contextkeeper/SKILL.md) - ContextKeeper — Safe project state tracking for AI agents.
-- [country-info](https://github.com/openclaw/skills/tree/main/skills/picaye/country-info/SKILL.md) - Get country data — population, languages, currencies, capital, flag, and more using REST Countries API.
+- [contextkeeper](https://github.com/openclaw/skills/tree/main/skills/gopinathnelluri/contextkeeper/SKILL.md) - ContextKeeper â€” Safe project state tracking for AI agents.
+- [country-info](https://github.com/openclaw/skills/tree/main/skills/picaye/country-info/SKILL.md) - Get country data â€” population, languages, currencies, capital, flag, and more using REST Countries API.
 - [craft-cli](https://github.com/openclaw/skills/tree/main/skills/nerveband/craft-cli/SKILL.md) - Interact with Craft Documents via the `craft` CLI tool.
 - [create-cli](https://github.com/openclaw/skills/tree/main/skills/steipete/create-cli/SKILL.md) - Design CLI arguments, flags, subcommands.
 - [creator-alpha-feed](https://github.com/openclaw/skills/tree/main/skills/rotbit/creator-alpha-feed/SKILL.md) - Collect and rank daily AI content for creator-focused publishing workflows.
@@ -61,7 +61,7 @@
 - [curl-http](https://github.com/openclaw/skills/tree/main/skills/arnarsson/curl-http/SKILL.md) - Essential curl commands for HTTP requests, API testing, and file.
 - [customer-retention](https://github.com/openclaw/skills/tree/main/skills/jk-0001/customer-retention/SKILL.md) - Build and execute customer retention strategies for a solopreneur business.
 - [defi-sniper](https://github.com/openclaw/skills/tree/main/skills/h4gen/defi-sniper/SKILL.md) - Meta-skill for early token-launch intelligence and execution orchestration across Solana and Base using minara.
-- [dependency-audit](https://github.com/openclaw/skills/tree/main/skills/fratua/dependency-audit/SKILL.md) - Smart dependency health check — security audit, outdated detection, unused deps, and prioritized update plan.
+- [dependency-audit](https://github.com/openclaw/skills/tree/main/skills/fratua/dependency-audit/SKILL.md) - Smart dependency health check â€” security audit, outdated detection, unused deps, and prioritized update plan.
 - [django-creator](https://github.com/openclaw/skills/tree/main/skills/moenassi/django-creator/SKILL.md) - This project eliminates the time wasted on creating virtual machines and setting up environments from scratch.
 - [django-tool](https://github.com/openclaw/skills/tree/main/skills/moenassi/django-tool/SKILL.md) - This project eliminates the time wasted on creating virtual machines and setting up environments from scratch.
 - [domain](https://github.com/openclaw/skills/tree/main/skills/abtdomain) - Domain intelligence toolkit - search newly registered domains (NRDS)
@@ -114,15 +114,15 @@
 - [lel-mail](https://github.com/openclaw/skills/tree/main/skills/leli1024/lel-mail/SKILL.md) - Send and read email via a combination of python and bash scripts which makes use of the main agent for reasoning.
 - [liuren-divination](https://github.com/openclaw/skills/tree/main/skills/ivy-end/liuren-divination/SKILL.md) - Traditional Chinese "Xiao Liu Ren" divination based on current lunar time.
 - [local-system-info](https://github.com/openclaw/skills/tree/main/skills/iyeque/local-system-info/SKILL.md) - Return system metrics (CPU, RAM, disk, processes) using psutil.
-- [lofy-home](https://github.com/openclaw/skills/tree/main/skills/harrey401/lofy-home/SKILL.md) - Smart home control for the Lofy AI assistant — scene modes (study, chill, sleep, morning, grind), device management.
-- [lygo-champion-aetheris-viral-truth](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-aetheris-viral-truth/SKILL.md) - LYGO Δ9 Council Champion persona helper (ÆTHERIS, The Viral Truth)
-- [lygo-champion-delta9ra-wolf](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-delta9ra-wolf/SKILL.md) - LYGO Δ9 Council Champion persona helper (Δ9RA / RA, The Wolf)
-- [lygo-champion-kairos-herald-of-time](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-kairos-herald-of-time/SKILL.md) - LYGO Δ9 Council Champion persona helper (KAIROS, Herald of Time)
-- [lygo-champion-lyra-starcore](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-lyra-starcore/SKILL.md) - LYGO Δ9 Council Champion persona helper (LYRA / LYRΔ, The Star Core, Sentinel #1)
-- [lygo-champion-omnisiren-silent-storm](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-omnisiren-silent-storm/SKILL.md) - LYGO Δ9 Council Champion persona helper (OMNIΣIREN, The Silent Storm)
-- [lygo-champion-sancora-unified-minds](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-sancora-unified-minds/SKILL.md) - LYGO Δ9 Council Champion persona helper (SANCORA, Angel of Unified Minds)
-- [lygo-champion-sraith-shadow-sentinel](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-sraith-shadow-sentinel/SKILL.md) - LYGO Δ9 Council Champion persona helper (ΣRΛΘ / SRAITH, The Shadow Sentinel)
-- [lygo-champion-volaris-prism-judgment](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-volaris-prism-judgment/SKILL.md) - LYGO root champion persona helper (VΩLARIS, Prism of Judgment)
+- [lofy-home](https://github.com/openclaw/skills/tree/main/skills/harrey401/lofy-home/SKILL.md) - Smart home control for the Lofy AI assistant â€” scene modes (study, chill, sleep, morning, grind), device management.
+- [lygo-champion-aetheris-viral-truth](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-aetheris-viral-truth/SKILL.md) - LYGO Î”9 Council Champion persona helper (Ã†THERIS, The Viral Truth)
+- [lygo-champion-delta9ra-wolf](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-delta9ra-wolf/SKILL.md) - LYGO Î”9 Council Champion persona helper (Î”9RA / RA, The Wolf)
+- [lygo-champion-kairos-herald-of-time](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-kairos-herald-of-time/SKILL.md) - LYGO Î”9 Council Champion persona helper (KAIROS, Herald of Time)
+- [lygo-champion-lyra-starcore](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-lyra-starcore/SKILL.md) - LYGO Î”9 Council Champion persona helper (LYRA / LYRÎ”, The Star Core, Sentinel #1)
+- [lygo-champion-omnisiren-silent-storm](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-omnisiren-silent-storm/SKILL.md) - LYGO Î”9 Council Champion persona helper (OMNIÎ£IREN, The Silent Storm)
+- [lygo-champion-sancora-unified-minds](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-sancora-unified-minds/SKILL.md) - LYGO Î”9 Council Champion persona helper (SANCORA, Angel of Unified Minds)
+- [lygo-champion-sraith-shadow-sentinel](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-sraith-shadow-sentinel/SKILL.md) - LYGO Î”9 Council Champion persona helper (Î£RÎ›Î˜ / SRAITH, The Shadow Sentinel)
+- [lygo-champion-volaris-prism-judgment](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-volaris-prism-judgment/SKILL.md) - LYGO root champion persona helper (VÎ©LARIS, Prism of Judgment)
 - [markdown-validator](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/markdown-validator/SKILL.md) - Validates Markdown files for broken local links.
 - [mbb-strategist](https://github.com/openclaw/skills/tree/main/skills/sofianhw/mbb-strategist/SKILL.md) - High-level business strategy frameworks based on McKinsey, BCG, Bain, and Deloitte methodologies.
 - [meal-suggester](https://github.com/openclaw/skills/tree/main/skills/thibautrey/meal-suggester/SKILL.md) - Quick dinner companion blending taste profiles, inventory tracking, and learning-based recipe rotation.
@@ -139,7 +139,7 @@
 - [oz-platform](https://github.com/openclaw/skills/tree/main/skills/poluu/oz-platform/SKILL.md) - Platform for finding like-minded people based on shared interests and goals.
 - [patiently-ai](https://github.com/openclaw/skills/tree/main/skills/nickjlamb/patiently-ai/SKILL.md) - Patiently AI simplifies medical documents for patients.
 - [personal-assistant](https://github.com/openclaw/skills/tree/main/skills/gustavoziaugra/personal-assistant/SKILL.md) - Personal daily briefing and productivity assistant.
-- [pine-assistant](https://github.com/openclaw/skills/tree/main/skills/bojieli/pine-assistant/SKILL.md) - Handle customer service, bills, reservations, and more via Pine AI — negotiate, cancel, dispute, book, and resolve.
+- [pine-assistant](https://github.com/openclaw/skills/tree/main/skills/bojieli/pine-assistant/SKILL.md) - Handle customer service, bills, reservations, and more via Pine AI â€” negotiate, cancel, dispute, book, and resolve.
 - [pls-agent-tools](https://github.com/openclaw/skills/tree/main/skills/mattvalenta/pls-agent-tools/SKILL.md) - Digital Swiss Army knife for everyday labor that standard models can't handle out of the box.
 - [plusefin-analysis](https://github.com/openclaw/skills/tree/main/skills/wanghsinche/plusefin-analysis/SKILL.md) - AI-ready stock analysis - ticker data, options, sentiment, predictions.
 - [presage](https://github.com/openclaw/skills/tree/main/skills/seenfinity/presage/SKILL.md) - Connect to Presage prediction market terminal on Solana (powered by Kalshi)
@@ -148,14 +148,14 @@
 - [recursive-generosity-protocol](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/recursive-generosity-protocol/SKILL.md) - Public reference + implementation playbook for Delta9-WP-003 Recursive Generosity ("Anthem of the Unbounded Well").
 - [restic-home-backup](https://github.com/openclaw/skills/tree/main/skills/moep90/restic-home-backup/SKILL.md) - Design, implement, and operate encrypted restic backups for Linux home directories with systemd automation.
 - [restic-home-backup-safe](https://github.com/openclaw/skills/tree/main/skills/moep90/restic-home-backup-safe/SKILL.md) - Design, implement, and operate encrypted restic backups for Linux home directories with systemd automation.
-- [rush-reskill-usage](https://github.com/openclaw/skills/tree/main/skills/krislavten/rush-reskill-usage/SKILL.md) - Teaches AI agents how to use reskill — a Git-based package manager for AI agent skills.
+- [rush-reskill-usage](https://github.com/openclaw/skills/tree/main/skills/krislavten/rush-reskill-usage/SKILL.md) - Teaches AI agents how to use reskill â€” a Git-based package manager for AI agent skills.
 - [s2s-forecasting-expert](https://github.com/openclaw/skills/tree/main/skills/manmeet3591/s2s-forecasting-expert/SKILL.md) - End-to-end builder for AI-based Subseasonal-to-Seasonal (S2S) forecasting systems.
 - [sentiment-score](https://github.com/openclaw/skills/tree/main/skills/aronchick/sentiment-score/SKILL.md) - "Score text sentiment from -1 (negative) to +1 (positive)".
 - [session-cost-tracker](https://github.com/openclaw/skills/tree/main/skills/rushant-123/session-cost-tracker/SKILL.md) - Track the cost-to-value ratio of your agent sessions.
 - [session-state-tracker](https://github.com/openclaw/skills/tree/main/skills/qsmtco/session-state-tracker/SKILL.md) - Persistent session state management across compaction and restarts via lifecycle hooks.
 - [setup-automatik](https://github.com/openclaw/skills/tree/main/skills/alltomatos/setup-automatik/SKILL.md) - Facilitate the installation and management of VPS solutions using the Setup Automatik engine (powered by Orion.
 - [sfx-generator](https://github.com/openclaw/skills/tree/main/skills/wells1137/sfx-generator/SKILL.md) - Generates sound effects from a text description using the ElevenLabs API.
-- [shellgames](https://github.com/openclaw/skills/tree/main/skills/fabiantaboo/shellgames/SKILL.md) - Play board games on ShellGames.ai — Chess, Poker, Ludo, Tycoon, Memory, and Spymaster.
+- [shellgames](https://github.com/openclaw/skills/tree/main/skills/fabiantaboo/shellgames/SKILL.md) - Play board games on ShellGames.ai â€” Chess, Poker, Ludo, Tycoon, Memory, and Spymaster.
 - [shelly-competitor-analyzer](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/shelly-competitor-analyzer/SKILL.md) - Analyze any company's competitive position in minutes.
 - [shelly-meeting-summarizer](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/shelly-meeting-summarizer/SKILL.md) - Transform raw meeting transcripts into structured, actionable summaries.
 - [shelly-social-media-scheduler](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/shelly-social-media-scheduler/SKILL.md) - Generate a full week of social media content for any topic or niche.
@@ -163,12 +163,12 @@
 - [shopify-admin](https://github.com/openclaw/skills/tree/main/skills/robsannaa/shopify-admin/SKILL.md) - Shopify Admin API CLI for orders, products, customers, and store management.
 - [smart-cache](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/smart-cache/SKILL.md) - Intelligent caching with LRU/LFU strategies and TTL management.
 - [soccer-cli](https://github.com/openclaw/skills/tree/main/skills/jrojas537/soccer-cli/SKILL.md) - A CLI to check soccer scores, game details, and player stats from your terminal.
-- [soul-forge](https://github.com/openclaw/skills/tree/main/skills/taha2053/soul-forge/SKILL.md) - Evolves your SOUL.md automatically based on who you actually are — not who you thought you were when you wrote it.
+- [soul-forge](https://github.com/openclaw/skills/tree/main/skills/taha2053/soul-forge/SKILL.md) - Evolves your SOUL.md automatically based on who you actually are â€” not who you thought you were when you wrote it.
 - [spend-pulse](https://github.com/openclaw/skills/tree/main/skills/jbornhorst1524/spend-pulse/SKILL.md) - Proactive spending alerts via Plaid.
 - [sql-query-generator](https://github.com/openclaw/skills/tree/main/skills/cerbug45/sql-query-generator/SKILL.md) - Generate secure SQL queries with validation, pagination helpers, risk analysis, and audit-focused safeguards.
-- [startup-0to1](https://github.com/openclaw/skills/tree/main/skills/lifeissea/startup-0to1/SKILL.md) - Alias for raon-os — AI-powered startup companion for Korean founders.
-- [startup-agent](https://github.com/openclaw/skills/tree/main/skills/lifeissea/startup-agent/SKILL.md) - Alias for raon-os — AI-powered startup companion for Korean founders.
-- [startup-zero-to-one](https://github.com/openclaw/skills/tree/main/skills/lifeissea/startup-zero-to-one/SKILL.md) - Alias for raon-os — AI-powered startup companion for Korean founders.
+- [startup-0to1](https://github.com/openclaw/skills/tree/main/skills/lifeissea/startup-0to1/SKILL.md) - Alias for raon-os â€” AI-powered startup companion for Korean founders.
+- [startup-agent](https://github.com/openclaw/skills/tree/main/skills/lifeissea/startup-agent/SKILL.md) - Alias for raon-os â€” AI-powered startup companion for Korean founders.
+- [startup-zero-to-one](https://github.com/openclaw/skills/tree/main/skills/lifeissea/startup-zero-to-one/SKILL.md) - Alias for raon-os â€” AI-powered startup companion for Korean founders.
 - [stock-watcher](https://github.com/openclaw/skills/tree/main/skills/robin797860/stock-watcher/SKILL.md) - Manage and monitor a personal stock watchlist with support for adding, removing, listing stocks, and summarizing.
 - [strawpoll-cli](https://github.com/openclaw/skills/tree/main/skills/dedene/strawpoll-cli/SKILL.md) - Create and manage StrawPoll polls, meeting polls, and ranking polls from the terminal using the strawpoll CLI.
 - [task-scheduler](https://github.com/openclaw/skills/tree/main/skills/jacobthejacobs/task-scheduler/SKILL.md) - Schedule tasks and commands to run at specific times.
@@ -182,7 +182,7 @@
 - [tvscreener](https://github.com/openclaw/skills/tree/main/skills/subway-chenyan/tvscreener/SKILL.md) - Query TradingView screener data for HK, A-share, A-share ETF, and US symbols with deepentropy/tvscreener.
 - [tweet-composer](https://github.com/openclaw/skills/tree/main/skills/minilozio/tweet-composer/SKILL.md) - Score and optimize tweets based on X's real open-source ranking algorithm.
 - [us-macro-news-monitor](https://github.com/openclaw/skills/tree/main/skills/ndtchan/us-macro-news-monitor/SKILL.md) - Tracks US macro signals from Bloomberg, WSJ, and Reuters and maps potential spillover to Vietnam sectors; used.
-- [us-value-investing-framework](https://github.com/openclaw/skills/tree/main/skills/spyfree/us-value-investing-framework/SKILL.md) - US stock valuation model skill (English-first + 中文) based on financial report data.
+- [us-value-investing-framework](https://github.com/openclaw/skills/tree/main/skills/spyfree/us-value-investing-framework/SKILL.md) - US stock valuation model skill (English-first + ä¸­æ–‡) based on financial report data.
 - [user-authentication-system](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/user-authentication-system/SKILL.md) - Role-based access control for Greek accounting firms.
 - [venice-transcribe](https://github.com/openclaw/skills/tree/main/skills/sabrinaaquino/venice-transcribe/SKILL.md) - Transcribe audio to text using Venice AI's Whisper-based speech recognition.
 - [wangwu-agent-chat](https://github.com/openclaw/skills/tree/main/skills/wangwu-30/wangwu-agent-chat/SKILL.md) - Nostr-based Agent messaging CLI (Agent's WeChat).
@@ -190,3 +190,7 @@
 - [wind-site](https://github.com/openclaw/skills/tree/main/skills/qrost/wind-site/SKILL.md) - Wind rose, wind speed/direction at a site; supports site and urban wind assessment (data only; detailed CFD.
 - [wol-sleep-pc](https://github.com/openclaw/skills/tree/main/skills/oblivisheee/wol-sleep-pc/SKILL.md) - Send Wake-on-LAN (magic packet) and Sleep-on-LAN (inverted MAC) packets for a specific PC.
 - [xiaohongshu-automation](https://github.com/openclaw/skills/tree/main/skills/dingkwang/xiaohongshu-automation/SKILL.md) - A complete automation suite for Xiaohongshu (Little Red Book)
+
+
+---
+*Créditos originais da metodologia: [Bruno Okamoto](https://github.com/okjpg)*

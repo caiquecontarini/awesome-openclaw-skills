@@ -1,6 +1,6 @@
-# Smart Home & IoT
+﻿# Smart Home & IoT
 
-[← Back to main list](../README.md#table-of-contents)
+[â† Back to main list](../README.md#table-of-contents)
 
 **43 skills**
 
@@ -40,10 +40,14 @@
 - [internet-lookup-verifier](https://github.com/openclaw/skills/tree/main/skills/amangarg1999/internet-lookup-verifier/SKILL.md) - Verify information by performing.
 - [ipcam](https://github.com/openclaw/skills/tree/main/skills/ltpop/ipcam/SKILL.md) - ONVIF PTZ control + RTSP capture + camera discovery.
 - [lg-thinq](https://github.com/openclaw/skills/tree/main/skills/kaiofreitas/lg-thinq/SKILL.md) - Control LG smart appliances via ThinQ API.
-- [lygo-champion-cosmara](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-cosmara/SKILL.md) - COSMARA – ARKOS-line LYGO Champion of ethical cosmic exploration.
+- [lygo-champion-cosmara](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-cosmara/SKILL.md) - COSMARA â€“ ARKOS-line LYGO Champion of ethical cosmic exploration.
 - [nest-sdm](https://github.com/openclaw/skills/tree/main/skills/tag-assistant/nest-sdm/SKILL.md) - Control Nest thermostat, doorbell, and cameras via the Google Smart Device Management (SDM) API.
 - [nostr-plantr](https://github.com/openclaw/skills/tree/main/skills/samthomson/nostr-plantr/SKILL.md) - Specialized skill for Plantr IoT data (Kind 34419 and 4171).
 - [nostr-weather](https://github.com/openclaw/skills/tree/main/skills/samthomson/nostr-weather/SKILL.md) - Specialized skill for NIP-Weather IoT data, powered by nostr-nak.
 - [openmeteo-sh-weather-simple](https://github.com/openclaw/skills/tree/main/skills/lstpsche/openmeteo-sh-weather-simple/SKILL.md) - Get current weather and forecasts for any city or coordinates using free OpenMeteo API.
 - [tempest-weather](https://github.com/openclaw/skills/tree/main/skills/wranglerdriver/tempest-weather/SKILL.md) - Get current weather conditions from a WeatherFlow Tempest station using the Tempest REST API.
 - [wiz-light-control](https://github.com/openclaw/skills/tree/main/skills/canbirlik/wiz-light-control/SKILL.md) - Controls Wiz smart bulbs (turn on/off, RGB colors, disco mode) via local WiFi.
+
+
+---
+*Créditos originais da metodologia: [Bruno Okamoto](https://github.com/okjpg)*

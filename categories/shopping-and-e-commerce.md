@@ -1,6 +1,6 @@
-# Shopping & E-commerce
+﻿# Shopping & E-commerce
 
-[← Back to main list](../README.md#table-of-contents)
+[â† Back to main list](../README.md#table-of-contents)
 
 **55 skills**
 
@@ -12,9 +12,9 @@
 - [amazon-competitor-analyzer](https://github.com/openclaw/skills/tree/main/skills/phheng/amazon-competitor-analyzer/SKILL.md) - Scrapes Amazon product data from ASINs.
 - [amazon-orders](https://github.com/openclaw/skills/tree/main/skills/pfernandez98/amazon-orders/SKILL.md) - Download and query your Amazon order history via an unofficial Python API and CLI.
 - [anylist](https://github.com/openclaw/skills/tree/main/skills/mjrussell/anylist/SKILL.md) - Manage grocery and shopping lists via AnyList.
-- [atoship](https://github.com/openclaw/skills/tree/main/skills/atoship-dev/atoship/SKILL.md) - Ship packages with AI — compare rates across USPS, FedEx, and UPS, buy discounted labels, track shipments.
+- [atoship](https://github.com/openclaw/skills/tree/main/skills/atoship-dev/atoship/SKILL.md) - Ship packages with AI â€” compare rates across USPS, FedEx, and UPS, buy discounted labels, track shipments.
 - [black-box](https://github.com/openclaw/skills/tree/main/skills/lilyjazz/black-box/SKILL.md) - Indestructible audit logs for agent actions, stored in TiDB Zero.
-- [boj-mcp](https://github.com/openclaw/skills/tree/main/skills/ajtgjmdjp/boj-mcp/SKILL.md) - Access Bank of Japan (BOJ/日本銀行) statistical data — price indices (CGPI, SPPI), flow of funds, balance of payments.
+- [boj-mcp](https://github.com/openclaw/skills/tree/main/skills/ajtgjmdjp/boj-mcp/SKILL.md) - Access Bank of Japan (BOJ/æ—¥æœ¬éŠ€è¡Œ) statistical data â€” price indices (CGPI, SPPI), flow of funds, balance of payments.
 - [bricklink](https://github.com/openclaw/skills/tree/main/skills/odrobnik/bricklink/SKILL.md) - BrickLink Store API helper/CLI (OAuth 1.0 request signing).
 - [buy-anything](https://github.com/openclaw/skills/tree/main/skills/tsyvic/buy-anything/SKILL.md) - Purchase products from Amazon through conversational checkout.
 - [checkers-sixty60](https://github.com/openclaw/skills/tree/main/skills/snopoke/checkers-sixty60/SKILL.md) - Shop on Checkers.co.za Sixty60 delivery service via browser.
@@ -44,7 +44,7 @@
 - [moltlist-marketplace](https://github.com/openclaw/skills/tree/main/skills/koriyoshi2041/moltlist-marketplace/SKILL.md) - Interact with the moltlist.com agent.
 - [moltpho](https://github.com/openclaw/skills/tree/main/skills/unifiedh/moltpho/SKILL.md) - Shop autonomously on Amazon via Moltpho - search products, manage credit.
 - [moonpay](https://github.com/openclaw/skills/tree/main/skills/kevarifin14/moonpay/SKILL.md) - Your agent needs money.
-- [mt5-httpapi](https://github.com/openclaw/skills/tree/main/skills/psyb0t/mt5-httpapi/SKILL.md) - MetaTrader 5 trading via REST API — get market data, place/modify/close orders, manage positions, pull history.
+- [mt5-httpapi](https://github.com/openclaw/skills/tree/main/skills/psyb0t/mt5-httpapi/SKILL.md) - MetaTrader 5 trading via REST API â€” get market data, place/modify/close orders, manage positions, pull history.
 - [mutual-consent](https://github.com/openclaw/skills/tree/main/skills/otherpowers/mutual-consent/SKILL.md) - A governance skill that treats consent as a physical condition of information and relationship, not a stored choice.
 - [nft-tracker](https://github.com/openclaw/skills/tree/main/skills/ianalloway/nft-tracker/SKILL.md) - Track NFT collection prices, floor prices, and sales data.
 - [onchain](https://github.com/openclaw/skills/tree/main/skills/arein/onchain/SKILL.md) - CLI for crypto portfolio tracking, market data, CEX history, and transaction lookups.
@@ -54,6 +54,10 @@
 - [popup-referrals](https://github.com/openclaw/skills/tree/main/skills/eliaskress/popup-referrals/SKILL.md) - Check your PopUp referral link, track earnings, and see referred vendor status.
 - [sp3nd](https://github.com/openclaw/skills/tree/main/skills/kent-x1/sp3nd/SKILL.md) - Buy products from Amazon using USDC on Solana.
 - [stock-price-checker](https://github.com/openclaw/skills/tree/main/skills/rupprath/stock-price-checker/SKILL.md) - Check stock prices using yfinance library.
-- [tradekix](https://github.com/openclaw/skills/tree/main/skills/jamesjohnfox/tradekix/SKILL.md) - Query financial market data via the Tradekix API — stock prices, crypto, forex, indices, market news, earnings.
+- [tradekix](https://github.com/openclaw/skills/tree/main/skills/jamesjohnfox/tradekix/SKILL.md) - Query financial market data via the Tradekix API â€” stock prices, crypto, forex, indices, market news, earnings.
 - [turnip-prophet](https://github.com/openclaw/skills/tree/main/skills/nicholasjackson/turnip-prophet/SKILL.md) - Predict Animal Crossing New Horizons turnip prices using the game's exact algorithm.
-- [whop-cli](https://github.com/openclaw/skills/tree/main/skills/g9pedro/whop-cli/SKILL.md) - Manage Whop digital products store — create products, plans, track payments, manage memberships.
+- [whop-cli](https://github.com/openclaw/skills/tree/main/skills/g9pedro/whop-cli/SKILL.md) - Manage Whop digital products store â€” create products, plans, track payments, manage memberships.
+
+
+---
+*Créditos originais da metodologia: [Bruno Okamoto](https://github.com/okjpg)*

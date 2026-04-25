@@ -1,6 +1,6 @@
-# Speech & Transcription
+﻿# Speech & Transcription
 
-[← Back to main list](../README.md#table-of-contents)
+[â† Back to main list](../README.md#table-of-contents)
 
 **45 skills**
 
@@ -12,15 +12,15 @@
 - [assemblyai-transcribe](https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/assemblyai-transcribe/SKILL.md) - Transcribe audio/video with AssemblyAI.
 - [audio-gen](https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/audio-gen/SKILL.md) - Generate audiobooks, podcasts, or educational audio content.
 - [audio-reply](https://github.com/openclaw/skills/tree/main/skills/matrixy/audio-reply-skill/SKILL.md) - Generate audio replies using TTS.
-- [auto-whisper-safe](https://github.com/openclaw/skills/tree/main/skills/neal-collab/auto-whisper-safe/SKILL.md) - RAM-safe voice transcription with auto-chunking — works on 16GB machines without crashes.
+- [auto-whisper-safe](https://github.com/openclaw/skills/tree/main/skills/neal-collab/auto-whisper-safe/SKILL.md) - RAM-safe voice transcription with auto-chunking â€” works on 16GB machines without crashes.
 - [brw-de-ai-ify](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-de-ai-ify/SKILL.md) - Remove AI-generated jargon and restore human voice to text.
 - [chichi-speech](https://github.com/openclaw/skills/tree/main/skills/hudeven/chichi-speech/SKILL.md) - A RESTful service for high-quality text-to-speech using Qwen3.
 - [claw-voice](https://github.com/openclaw/skills/tree/main/skills/niczy) - You are connected to a live user session via voice.
 - [clonev](https://github.com/openclaw/skills/tree/main/skills/instant-picture/clonev/SKILL.md) - Clone any voice and generate speech using Coqui XTTS v2.
 - [critical-article-writer](https://github.com/openclaw/skills/tree/main/skills/tomstools11/critical-article-writer/SKILL.md) - Generate draft articles, outlines.
-- [cult-of-carcinization](https://github.com/openclaw/skills/tree/main/skills/loserbcc/cult-of-carcinization/SKILL.md) - Give your agent a voice — and ears.
+- [cult-of-carcinization](https://github.com/openclaw/skills/tree/main/skills/loserbcc/cult-of-carcinization/SKILL.md) - Give your agent a voice â€” and ears.
 - [deepdub-tts](https://github.com/openclaw/skills/tree/main/skills/yuval-deepdub/deepdub-tts/SKILL.md) - Generate speech audio using Deepdub and attach it as a MEDIA.
-- [deepgram](https://github.com/openclaw/skills/tree/main/skills/nerkn/deepgram/SKILL.md) - — command-line interface for Deepgram speech-to-text.
+- [deepgram](https://github.com/openclaw/skills/tree/main/skills/nerkn/deepgram/SKILL.md) - â€” command-line interface for Deepgram speech-to-text.
 - [dellight-cro-revenue-ops](https://github.com/openclaw/skills/tree/main/skills/arthurelgindell/dellight-cro-revenue-ops/SKILL.md) - DELLIGHT.AI is an AI startup in DIFC, Dubai.
 - [documents-ai](https://github.com/openclaw/skills/tree/main/skills/dbirulia/documents-ai/SKILL.md) - Real-time OCR and data extraction API by Veryfi.
 - [doubao-api-open-tts](https://github.com/openclaw/skills/tree/main/skills/xdrshjr/doubao-api-open-tts/SKILL.md) - Text-to-Speech service using Doubao (Volcano Engine)
@@ -49,3 +49,7 @@
 - [norman-monthly-reconciliation](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-monthly-reconciliation/SKILL.md) - Perform a complete monthly financial reconciliation - review all transactions, match invoices, check outstanding.
 - [ressemble](https://github.com/openclaw/skills/tree/main/skills/adriano-vr/ressemble/SKILL.md) - Text-to-Speech and Speech-to-Text integration using Resemble AI HTTP API.
 - [siliconflow-tts-gen](https://github.com/openclaw/skills/tree/main/skills/lilei0311/siliconflow-tts-gen/SKILL.md) - Text-to-Speech using SiliconFlow API (CosyVoice2)
+
+
+---
+*Créditos originais da metodologia: [Bruno Okamoto](https://github.com/okjpg)*

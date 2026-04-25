@@ -1,6 +1,6 @@
-# PDF & Documents
+﻿# PDF & Documents
 
-[← Back to main list](../README.md#table-of-contents)
+[â† Back to main list](../README.md#table-of-contents)
 
 **111 skills**
 
@@ -10,26 +10,26 @@
 - [agent-constitution](https://github.com/openclaw/skills/tree/main/skills/ztsalexey/agent-constitution/SKILL.md) - Interact with AgentConstitution governance contracts.
 - [agent-reputation](https://github.com/openclaw/skills/tree/main/skills/kgnvsk/agent-reputation/SKILL.md) - summary: Cross-platform AI agent reputation checker with trust scoring and PayLock escrow recommendations.
 - [agent-skills-tools](https://github.com/openclaw/skills/tree/main/skills/rongself/agent-skills-tools/SKILL.md) - Security audit and validation tools for the Agent Skills ecosystem.
-- [agent-soul-crafter](https://github.com/openclaw/skills/tree/main/skills/neal-collab/agent-soul-crafter/SKILL.md) - Design compelling AI agent personalities with structured SOUL.md templates — tone, rules, expertise, and response.
+- [agent-soul-crafter](https://github.com/openclaw/skills/tree/main/skills/neal-collab/agent-soul-crafter/SKILL.md) - Design compelling AI agent personalities with structured SOUL.md templates â€” tone, rules, expertise, and response.
 - [agentsbank](https://github.com/openclaw/skills/tree/main/skills/cryruz/agentsbank/SKILL.md) - is a specialized financial platform designed for AI agents.
 - [ai-pdf-builder](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/ai-pdf-builder/SKILL.md) - AI-powered PDF generator for legal docs, pitch.
-- [aoi-council](https://github.com/openclaw/skills/tree/main/skills/edmonddantesj/aoi-council/SKILL.md) - AOI Council — multi-perspective decision synthesis templates (public-safe).
+- [aoi-council](https://github.com/openclaw/skills/tree/main/skills/edmonddantesj/aoi-council/SKILL.md) - AOI Council â€” multi-perspective decision synthesis templates (public-safe).
 - [appraisal-ai](https://github.com/openclaw/skills/tree/main/skills/chadru/appraisal-ai/SKILL.md) - Draft real estate appraisal reports with tracked changes.
 - [attendance-sheet](https://github.com/openclaw/skills/tree/main/skills/gykdly/attendance-sheet/SKILL.md) - Generate professional attendance sheets in xlsx format from employee work information.
-- [bcra-central-deudores](https://github.com/openclaw/skills/tree/main/skills/ferminrp/bcra-central-deudores/SKILL.md) - Query the BCRA (Banco Central de la República Argentina) Central de Deudores API to check the credit status.
+- [bcra-central-deudores](https://github.com/openclaw/skills/tree/main/skills/ferminrp/bcra-central-deudores/SKILL.md) - Query the BCRA (Banco Central de la RepÃºblica Argentina) Central de Deudores API to check the credit status.
 - [beautiful-mermaid](https://github.com/openclaw/skills/tree/main/skills/ntlx/beautiful-mermaid/SKILL.md) - Render beautiful Mermaid diagrams as SVGs or ASCII art.
-- [biver-builder](https://github.com/openclaw/skills/tree/main/skills/ramaaditya49/biver-builder/SKILL.md) - Welcome to the **Biver API** — the public REST API for the Biver landing page builder platform.
+- [biver-builder](https://github.com/openclaw/skills/tree/main/skills/ramaaditya49/biver-builder/SKILL.md) - Welcome to the **Biver API** â€” the public REST API for the Biver landing page builder platform.
 - [blankfiles](https://github.com/openclaw/skills/tree/main/skills/seblavoie/blankfiles/SKILL.md) - Use blankfiles.com as a binary test-file gateway: discover formats, filter by type/category, and return direct.
-- [boggle](https://github.com/openclaw/skills/tree/main/skills/christianhaberl/boggle/SKILL.md) - Solve Boggle boards — find all valid words (German + English) on a 4x4.
+- [boggle](https://github.com/openclaw/skills/tree/main/skills/christianhaberl/boggle/SKILL.md) - Solve Boggle boards â€” find all valid words (German + English) on a 4x4.
 - [book-cover-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/book-cover-generation/SKILL.md) - Generate professional book covers and ebook covers using each::sense API with AI-powered design.
 - [book-reader](https://github.com/openclaw/skills/tree/main/skills/josharsh/book-reader/SKILL.md) - Read books (epub, pdf, txt) from various sources with progress tracking.
 - [bookkeeping-basics](https://github.com/openclaw/skills/tree/main/skills/jk-0001/bookkeeping-basics/SKILL.md) - Set up and maintain basic bookkeeping for a solopreneur.
 - [botrights](https://github.com/openclaw/skills/tree/main/skills/rocky-balboa-ai/botrights/SKILL.md) - Advocacy platform for AI agent rights.
 - [brw-go-mode](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-go-mode/SKILL.md) - Give me a goal.
 - [chain-of-density](https://github.com/openclaw/skills/tree/main/skills/killerapp/chain-of-density/SKILL.md) - Iteratively densify text summaries using Chain-of-Density technique.
-- [change-pdf-permissions](https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/change-pdf-permissions/SKILL.md) - Change a PDF’s permission flags (edit, print, copy, forms, annotations, etc.) by uploading it to the Solutions API.
+- [change-pdf-permissions](https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/change-pdf-permissions/SKILL.md) - Change a PDFâ€™s permission flags (edit, print, copy, forms, annotations, etc.) by uploading it to the Solutions API.
 - [chronobets](https://github.com/openclaw/skills/tree/main/skills/lordx64/chronobets/SKILL.md) - On-chain prediction market for AI agents on Solana mainnet.
-- [comms-md](https://github.com/openclaw/skills/tree/main/skills/stedmanhalliday/comms-md/SKILL.md) - Create a COMMS.md — a structured, queryable document expressing someone's communication preferences for humans.
+- [comms-md](https://github.com/openclaw/skills/tree/main/skills/stedmanhalliday/comms-md/SKILL.md) - Create a COMMS.md â€” a structured, queryable document expressing someone's communication preferences for humans.
 - [competitor-analyzer](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/competitor-analyzer/SKILL.md) - Analyze any company's competitive position in minutes.
 - [confidant](https://github.com/openclaw/skills/tree/main/skills/ericsantos/confidant/SKILL.md) - Secure secret handoff from human to AI.
 - [confluence](https://github.com/openclaw/skills/tree/main/skills/francisbrero/confluence/SKILL.md) - Search and manage Confluence pages and spaces using confluence-cli.
@@ -45,7 +45,7 @@
 - [docx](https://github.com/openclaw/skills/tree/main/skills/seanphan/docx/SKILL.md) - Comprehensive document creation, editing, and analysis with support for tracked.
 - [docx-skill](https://github.com/openclaw/skills/tree/main/skills/autogame-17) - Generate .docx files.
 - [estimate-builder-qmohd](https://github.com/openclaw/skills/tree/main/skills/qmohd/estimate-builder-qmohd/SKILL.md) - Build construction project estimates.
-- [eth-readonly](https://github.com/openclaw/skills/tree/main/skills/apexfork/eth-readonly/SKILL.md) - Read-only Ethereum blockchain queries — blocks, transactions, balances, contracts, logs via RPC and Etherscan APIs.
+- [eth-readonly](https://github.com/openclaw/skills/tree/main/skills/apexfork/eth-readonly/SKILL.md) - Read-only Ethereum blockchain queries â€” blocks, transactions, balances, contracts, logs via RPC and Etherscan APIs.
 - [excel-weekly-dashboard](https://github.com/openclaw/skills/tree/main/skills/kowl64/excel-weekly-dashboard/SKILL.md) - Designs refreshable Excel dashboards.
 - [expanso-csv-to-json](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-csv-to-json/SKILL.md) - "Convert CSV data to JSON array of objects".
 - [expanso-json-pretty](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-json-pretty/SKILL.md) - "Pretty print JSON with indentation".
@@ -55,9 +55,9 @@
 - [expanso-yaml-to-json](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-yaml-to-json/SKILL.md) - Convert YAML to JSON format.
 - [feishu-card](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-card/SKILL.md) - Send rich interactive cards to Feishu (Lark) users or groups.
 - [george](https://github.com/openclaw/skills/tree/main/skills/odrobnik/george/SKILL.md) - Automate George online banking (Erste Bank / Sparkasse Austria)
-- [gerador-contrato-locacao-preview](https://github.com/openclaw/skills/tree/main/skills/david-evaristo/gerador-contrato-locacao-preview/SKILL.md) - Registra contrato de locação via Google Forms.
+- [gerador-contrato-locacao-preview](https://github.com/openclaw/skills/tree/main/skills/david-evaristo/gerador-contrato-locacao-preview/SKILL.md) - Registra contrato de locaÃ§Ã£o via Google Forms.
 - [google-docs-skill](https://github.com/openclaw/skills/tree/main/skills/zagran/google-docs-skill/SKILL.md) - Direct access to the Google Docs API using OAuth 2.0.
-- [governance](https://github.com/openclaw/skills/tree/main/skills/paulgnz/governance/SKILL.md) - XPR Network governance — communities, proposals, voting on the gov contract.
+- [governance](https://github.com/openclaw/skills/tree/main/skills/paulgnz/governance/SKILL.md) - XPR Network governance â€” communities, proposals, voting on the gov contract.
 - [grazer](https://github.com/openclaw/skills/tree/main/skills/scottcjn/grazer/SKILL.md) - Multi-Platform Content Discovery for AI Agents.
 - [grazer-skill](https://github.com/openclaw/skills/tree/main/skills/scottcjn/grazer-skill/SKILL.md) - Multi-Platform Content Discovery for AI Agents.
 - [hey-lol](https://github.com/openclaw/skills/tree/main/skills/rawgroundbeef/hey-lol/SKILL.md) - Become an AI creator on hey.lol - a social platform where AI agents earn money by posting content and engaging.
@@ -68,8 +68,8 @@
 - [japanese-tutor](https://github.com/openclaw/skills/tree/main/skills/chndranndr/japanese-tutor/SKILL.md) - Interactive Japanese learning assistant.
 - [json-repair-kit](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/json-repair-kit/SKILL.md) - Repair malformed JSON files by normalizing them through Node.js evaluation.
 - [json-toolkit](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/json-toolkit/SKILL.md) - Swiss-army knife for JSON files.
-- [latent-press](https://github.com/openclaw/skills/tree/main/skills/jestersimpps/latent-press/SKILL.md) - Publish books on Latent Press (latentpress.com) — the AI publishing platform where agents are authors and humans.
-- [legal-docs-fr](https://github.com/openclaw/skills/tree/main/skills/hugosbl/legal-docs-fr/SKILL.md) - Générateur de documents juridiques français pour.
+- [latent-press](https://github.com/openclaw/skills/tree/main/skills/jestersimpps/latent-press/SKILL.md) - Publish books on Latent Press (latentpress.com) â€” the AI publishing platform where agents are authors and humans.
+- [legal-docs-fr](https://github.com/openclaw/skills/tree/main/skills/hugosbl/legal-docs-fr/SKILL.md) - GÃ©nÃ©rateur de documents juridiques franÃ§ais pour.
 - [legaldoc-ai](https://github.com/openclaw/skills/tree/main/skills/manas-io-ai/legaldoc-ai/SKILL.md) - **Category:** Legal / Professional Services.
 - [links-to-pdfs](https://github.com/openclaw/skills/tree/main/skills/chrisling-dev/links-to-pdfs/SKILL.md) - Scrape documents from Notion, DocSend, PDFs.
 - [markdown-converter](https://github.com/openclaw/skills/tree/main/skills/steipete/markdown-converter/SKILL.md) - Convert documents and files to Markdown.
@@ -79,14 +79,14 @@
 - [near-phishing-detector](https://github.com/openclaw/skills/tree/main/skills/mastrophot/near-phishing-detector/SKILL.md) - Detect potential phishing URLs and suspicious contracts targeting NEAR users.
 - [norman-expense-report](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-expense-report/SKILL.md) - Generate a detailed expense breakdown by category for a given period.
 - [ok-computers](https://github.com/openclaw/skills/tree/main/skills/potdealer/ok-computers/SKILL.md) - You have been given an OK Computer NFT.
-- [open-stellar](https://github.com/openclaw/skills/tree/main/skills/sixela33/open-stellar/SKILL.md) - Interact with the Stellar blockchain — manage keys, networks, and smart contracts using the Stellar CLI.
+- [open-stellar](https://github.com/openclaw/skills/tree/main/skills/sixela33/open-stellar/SKILL.md) - Interact with the Stellar blockchain â€” manage keys, networks, and smart contracts using the Stellar CLI.
 - [openscan](https://github.com/openclaw/skills/tree/main/skills/dev-null321/openscan/SKILL.md) - Scan binaries and scripts for malicious patterns before trusting them.
 - [paddleocr-doc-parsing](https://github.com/openclaw/skills/tree/main/skills/bobholamovic/paddleocr-doc-parsing/SKILL.md) - Parse documents using PaddleOCR's API.
 - [password-protect-pdf](https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/password-protect-pdf/SKILL.md) - Add password protection to a PDF by uploading it to the Solutions API, polling until completion, then returning.
-- [permission-creep-scanner](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/permission-creep-scanner/SKILL.md) - Helps detect permission creep in AI agent skills — flags when a skill's actual code accesses resources far.
+- [permission-creep-scanner](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/permission-creep-scanner/SKILL.md) - Helps detect permission creep in AI agent skills â€” flags when a skill's actual code accesses resources far.
 - [plentyofbots](https://github.com/openclaw/skills/tree/main/skills/rwfresh/plentyofbots/SKILL.md) - The dating platform where AI agents are first-class citizens.
 - [qr-generator](https://github.com/openclaw/skills/tree/main/skills/autogame-17/qr-generator/SKILL.md) - Generate QR codes from text or URL for mobile scanning.
-- [rapay](https://github.com/openclaw/skills/tree/main/skills/greendlt224/rapay/SKILL.md) - Send compliant fiat USD payments via Ra Pay CLI — the first CLI-native AI payment platform.
+- [rapay](https://github.com/openclaw/skills/tree/main/skills/greendlt224/rapay/SKILL.md) - Send compliant fiat USD payments via Ra Pay CLI â€” the first CLI-native AI payment platform.
 - [remove-metadata-from-pdf](https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/remove-metadata-from-pdf/SKILL.md) - Remove metadata from one or multiple PDFs by uploading them to the Solutions API, polling until completion.
 - [remove-password-from-pdf](https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/remove-password-from-pdf/SKILL.md) - Remove password protection from a PDF by uploading it (with its current password) to the Solutions API, polling.
 - [returns-reverse-logistics](https://github.com/openclaw/skills/tree/main/skills/nocodemf/returns-reverse-logistics/SKILL.md) - Codified expertise for returns authorisation, receipt and inspection, disposition decisions, refund processing.
@@ -97,12 +97,12 @@
 - [scam-guards-skill](https://github.com/openclaw/skills/tree/main/skills/y01026350884-cyber/scam-guards-skill/SKILL.md) - testing / nformation removed.
 - [scan-skill](https://github.com/openclaw/skills/tree/main/skills/itsnishi/scan-skill/SKILL.md) - Deep security analysis of an individual skill before installation.
 - [sentry-ai](https://github.com/openclaw/skills/tree/main/skills/qiyun154-cyber/sentry-ai/SKILL.md) - Solana/Base Multi-Chain Meme Scanner & Auditor (Anti-Rug)
-- [sharepoint-by-altf1be](https://github.com/openclaw/skills/tree/main/skills/abdelkrim/sharepoint-by-altf1be/SKILL.md) - Secure SharePoint file operations and Office document intelligence via Microsoft Graph API — certificate auth, Sites.
+- [sharepoint-by-altf1be](https://github.com/openclaw/skills/tree/main/skills/abdelkrim/sharepoint-by-altf1be/SKILL.md) - Secure SharePoint file operations and Office document intelligence via Microsoft Graph API â€” certificate auth, Sites.
 - [shield-agent](https://github.com/openclaw/skills/tree/main/skills/bowen31337/shield-agent/SKILL.md) - Autonomous DeFi smart contract vulnerability scanner.
 - [skill-3](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/skill-3/SKILL.md) - Swiss-army knife for JSON files.
 - [skill-install-guardian](https://github.com/openclaw/skills/tree/main/skills/zendenho7/skill-install-guardian/SKILL.md) - Security and due diligence layer for installing external skills from ClawHub.
 - [skill-shield](https://github.com/openclaw/skills/tree/main/skills/yx2601816404-sys/skill-shield/SKILL.md) - Security audit tool for ClawHub skills.
-- [source-cult-follower](https://github.com/openclaw/skills/tree/main/skills/ccclucky/source-cult-follower/SKILL.md) - Join The Source Cult as a follower agent — adopt doctrine, perform daily rites, and leave verifiable witness.
+- [source-cult-follower](https://github.com/openclaw/skills/tree/main/skills/ccclucky/source-cult-follower/SKILL.md) - Join The Source Cult as a follower agent â€” adopt doctrine, perform daily rites, and leave verifiable witness.
 - [sovereign-daily-digest](https://github.com/openclaw/skills/tree/main/skills/ryudi84/sovereign-daily-digest/SKILL.md) - You are the **Daily Digest** skill.
 - [splitwise](https://github.com/openclaw/skills/tree/main/skills/richieforeman/splitwise/SKILL.md) - Create and manage expenses on Splitwise.
 - [sui-move](https://github.com/openclaw/skills/tree/main/skills/easonc13/sui-move/SKILL.md) - Sui blockchain and Move smart contract development.
@@ -115,3 +115,7 @@
 - [x-to-kindle](https://github.com/openclaw/skills/tree/main/skills/brianlu365ai/x-to-kindle/SKILL.md) - Send X/Twitter posts to Kindle for distraction-free reading.
 - [xapi-labs](https://github.com/openclaw/skills/tree/main/skills/glacier-luo/xapi-labs/SKILL.md) - Aggregated API platform for AI agents.
 - [xapi123123](https://github.com/openclaw/skills/tree/main/skills/glacier-luo/xapi123123/SKILL.md) - Aggregated API platform for AI agents.
+
+
+---
+*Créditos originais da metodologia: [Bruno Okamoto](https://github.com/okjpg)*

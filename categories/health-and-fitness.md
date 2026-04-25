@@ -1,6 +1,6 @@
-# Health & Fitness
+﻿# Health & Fitness
 
-[← Back to main list](../README.md#table-of-contents)
+[â† Back to main list](../README.md#table-of-contents)
 
 **88 skills**
 
@@ -28,13 +28,13 @@
 - [customer-onboarding-2](https://github.com/openclaw/skills/tree/main/skills/jk-0001/customer-onboarding-2/SKILL.md) - Design and execute customer onboarding that drives activation and retention.
 - [detox-counter](https://github.com/openclaw/skills/tree/main/skills/jhillin8/detox-counter/SKILL.md) - Track any detox with customizable counters, symptom logging.
 - [diet-tracker](https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/diet-tracker/SKILL.md) - Tracks daily diet and calculates nutrition information.
-- [efka-api-integration](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/efka-api-integration/SKILL.md) - Greek social security (EFKA) integration — employee records, contribution calculations, APD declarations.
+- [efka-api-integration](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/efka-api-integration/SKILL.md) - Greek social security (EFKA) integration â€” employee records, contribution calculations, APD declarations.
 - [egvert-health-guardian](https://github.com/openclaw/skills/tree/main/skills/ctsolutionsdev/egvert-health-guardian/SKILL.md) - Proactive health monitoring for AI.
 - [endurance-coach](https://github.com/openclaw/skills/tree/main/skills/shiv19/endurance-coach/SKILL.md) - Create personalized triathlon, marathon, and ultra-endurance.
 - [eth24](https://github.com/openclaw/skills/tree/main/skills/patmilkgallon/eth24/SKILL.md) - You are running ETH24, a daily digest tool that surfaces the top tweets for a configured topic.
 - [fasting-tracker](https://github.com/openclaw/skills/tree/main/skills/jhillin8/fasting-tracker/SKILL.md) - Track intermittent fasting windows, extended fasts.
 - [feast](https://github.com/openclaw/skills/tree/main/skills/smadgerano/feast/SKILL.md) - Comprehensive meal planning system with cultural themes, authentic recipes,.
-- [feed-diet](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/feed-diet/SKILL.md) - Audit your information diet across HN and RSS feeds — beautiful reports with category breakdowns, ASCII charts.
+- [feed-diet](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/feed-diet/SKILL.md) - Audit your information diet across HN and RSS feeds â€” beautiful reports with category breakdowns, ASCII charts.
 - [fitbit](https://github.com/openclaw/skills/tree/main/skills/mjrussell/fitbit/SKILL.md) - Query Fitbit health data including sleep, heart rate, activity, SpO2.
 - [fitbit-analytics](https://github.com/openclaw/skills/tree/main/skills/kesslerio/fitbit-analytics/SKILL.md) - Fitbit health and fitness data integration.
 - [free-jobboard-api](https://github.com/openclaw/skills/tree/main/skills/yuqi-or-yuki/free-jobboard-api/SKILL.md) - Job board for agents.
@@ -62,11 +62,11 @@
 - [mealie-api](https://github.com/openclaw/skills/tree/main/skills/angusthefuzz/mealie-api/SKILL.md) - Interact with Mealie recipe manager (recipes, shopping lists, meal plans)
 - [mh-1password](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-1password/SKILL.md) - Set up and use 1Password CLI (op)
 - [muscle-gain](https://github.com/openclaw/skills/tree/main/skills/jhillin8/muscle-gain/SKILL.md) - Track muscle building with weight progression, protein tracking.
-- [nicholasrae-expense-tracker](https://github.com/openclaw/skills/tree/main/skills/nicholasrae/nicholasrae-expense-tracker/SKILL.md) - Just say what you spent — your AI logs it, categorizes it, and tracks it against your budget.
+- [nicholasrae-expense-tracker](https://github.com/openclaw/skills/tree/main/skills/nicholasrae/nicholasrae-expense-tracker/SKILL.md) - Just say what you spent â€” your AI logs it, categorizes it, and tracks it against your budget.
 - [norman-overdue-reminders](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-overdue-reminders/SKILL.md) - Find overdue invoices and send payment reminders (Zahlungserinnerungen / Mahnungen) to clients.
 - [norman-tax-report](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-tax-report/SKILL.md) - Review and manage German tax reports including VAT (Umsatzsteuer), income tax prepayments, and Finanzamt submissions.
 - [openalexandria](https://github.com/openclaw/skills/tree/main/skills/havneco/openalexandria/SKILL.md) - Query and submit artifacts to the OpenAlexandria federated knowledge protocol (reference node by default).
-- [opencal](https://github.com/openclaw/skills/tree/main/skills/neikfu/opencal/SKILL.md) - Log meals, check nutrition progress, and manage calorie goals in the OpenCal app — hands-free via your AI agent.
+- [opencal](https://github.com/openclaw/skills/tree/main/skills/neikfu/opencal/SKILL.md) - Log meals, check nutrition progress, and manage calorie goals in the OpenCal app â€” hands-free via your AI agent.
 - [openfunderse-participant](https://github.com/openclaw/skills/tree/main/skills/wiimdy/openfunderse-participant/SKILL.md) - Participant MoltBot for allocation proposal, validation, and submission.
 - [openfunderse-strategy](https://github.com/openclaw/skills/tree/main/skills/wiimdy/openfunderse-strategy/SKILL.md) - Participant MoltBot for allocation proposal, validation, and submission.
 - [oura-analytics](https://github.com/openclaw/skills/tree/main/skills/kesslerio/oura-analytics/SKILL.md) - Oura Ring data integration and analytics.
@@ -74,14 +74,14 @@
 - [portfolio-tracking-skill](https://github.com/openclaw/skills/tree/main/skills/aigeneralstore/portfolio-tracking-skill/SKILL.md) - An investment portfolio tracker that runs entirely locally.
 - [ramalama-cli](https://github.com/openclaw/skills/tree/main/skills/ieaves/ramalama-cli/SKILL.md) - Run and interact with AI agents.
 - [recipe-finder](https://github.com/openclaw/skills/tree/main/skills/harshasic/recipe-finder/SKILL.md) - Find recipes by ingredients, cuisine, or dietary preferences using TheMealDB free API.
-- [redshift](https://github.com/openclaw/skills/tree/main/skills/accolver/redshift/SKILL.md) - Manage application secrets with the Redshift CLI (https://redshiftapp.com) — decentralized, encrypted secret.
+- [redshift](https://github.com/openclaw/skills/tree/main/skills/accolver/redshift/SKILL.md) - Manage application secrets with the Redshift CLI (https://redshiftapp.com) â€” decentralized, encrypted secret.
 - [revenue-tracker](https://github.com/openclaw/skills/tree/main/skills/gpunter/revenue-tracker/SKILL.md) - Track income, expenses, and runway for autonomous AI agents.
 - [sample-skill](https://github.com/openclaw/skills/tree/main/skills/swairshah/sample-skill/SKILL.md) - Use when participating in the USDC Hackathon, submitting projects, or voting. 3 tracks: SmartContract, Skill.
 - [sauna-calm](https://github.com/openclaw/skills/tree/main/skills/grx21/sauna-calm/SKILL.md) - Calm frustrated users with breathing exercises and Sauna.ai reminders.
 - [security-checker](https://github.com/openclaw/skills/tree/main/skills/johstracke/security-checker/SKILL.md) - Security scanner for Python skills before publishing to ClawHub.
 - [soft-pillow](https://github.com/openclaw/skills/tree/main/skills/kivs/soft-pillow/SKILL.md) - Use when the user asks about their sleep data, dream history, or wants to query sleep entries from the Soft Pillow app.
 - [suisec](https://github.com/openclaw/skills/tree/main/skills/k66inthesky/suisec/SKILL.md) - Sui Secure - Pre-simulate transactions via sui client call --dry-run and sui client ptb --dry-run, compare results.
-- [system-health-check](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/system-health-check/SKILL.md) - System health validator — checks skill files, paths, permissions, binaries, backup freshness, and encryption.
+- [system-health-check](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/system-health-check/SKILL.md) - System health validator â€” checks skill files, paths, permissions, binaries, backup freshness, and encryption.
 - [tribe-protocol](https://github.com/openclaw/skills/tree/main/skills/cheenu1092-oss/tribe-protocol/SKILL.md) - MANDATORY trust lookup for every non-owner interaction.
 - [triggercmd](https://github.com/openclaw/skills/tree/main/skills/rvmey/triggercmd/SKILL.md) - Control TRIGGERcmd computers remotely by listing and running commands via the TRIGGERcmd REST API.
 - [twitter-post](https://github.com/openclaw/skills/tree/main/skills/sit-in/twitter-post/SKILL.md) - Post tweets to Twitter/X via the official API v2 (OAuth 1.0a)
@@ -89,6 +89,10 @@
 - [usdc](https://github.com/openclaw/skills/tree/main/skills/swairshah/usdc/SKILL.md) - Use when participating in the USDC Hackathon, submitting projects, or voting. 3 tracks: SmartContract, Skill.
 - [usdc-hackathon](https://github.com/openclaw/skills/tree/main/skills/swairshah/usdc-hackathon/SKILL.md) - Use when participating in the USDC Hackathon, submitting projects, or voting. 3 tracks: SmartContract, Skill.
 - [uv-priority](https://github.com/openclaw/skills/tree/main/skills/marcoracer/uv-priority/SKILL.md) - Prioritize uv over pip for all Python package management and execution.
-- [vynn-backtester](https://github.com/openclaw/skills/tree/main/skills/beee003/vynn-backtester/SKILL.md) - Run trading strategy backtests with natural language — powered by Vynn.
+- [vynn-backtester](https://github.com/openclaw/skills/tree/main/skills/beee003/vynn-backtester/SKILL.md) - Run trading strategy backtests with natural language â€” powered by Vynn.
 - [xrpl-tx-builder](https://github.com/openclaw/skills/tree/main/skills/harleyscodes/xrpl-tx-builder/SKILL.md) - Build and sign XRP Ledger transactions.
 - [yumstock](https://github.com/openclaw/skills/tree/main/skills/yumyumtum/yumstock/SKILL.md) - Macro-gated US stock analysis combining technical indicators, fundamentals, and macro environment with weighted.
+
+
+---
+*Créditos originais da metodologia: [Bruno Okamoto](https://github.com/okjpg)*

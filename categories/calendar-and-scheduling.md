@@ -1,6 +1,6 @@
-# Calendar & Scheduling
+﻿# Calendar & Scheduling
 
-[← Back to main list](../README.md#table-of-contents)
+[â† Back to main list](../README.md#table-of-contents)
 
 **65 skills**
 
@@ -33,7 +33,7 @@
 - [gog](https://github.com/openclaw/skills/tree/main/skills/steipete/gog/SKILL.md) - Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.
 - [google-calendar](https://github.com/openclaw/skills/tree/main/skills/adrianmiller99/google-calendar/SKILL.md) - Interact with Google Calendar via the Google Calendar.
 - [grazy](https://github.com/openclaw/skills/tree/main/skills/thomyg/grazy/SKILL.md) - grazy - Your Grazer Command Line Companion.
-- [greek-financial-statements](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-financial-statements/SKILL.md) - Greek financial statement generation — P&L, balance sheets, VAT summaries with EGLS integration.
+- [greek-financial-statements](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-financial-statements/SKILL.md) - Greek financial statement generation â€” P&L, balance sheets, VAT summaries with EGLS integration.
 - [habib-pdf-to-json](https://github.com/openclaw/skills/tree/main/skills/dbmoradi60/habib-pdf-to-json/SKILL.md) - Extract structured data from construction PDFs.
 - [ibt](https://github.com/openclaw/skills/tree/main/skills/palxislabs/ibt/SKILL.md) - Execution discipline with agency, instinct detection, critical safety rules, and trust layer. v2.5 adds human.
 - [ii-irc](https://github.com/openclaw/skills/tree/main/skills/destructatron/ii-irc/SKILL.md) - Persistent IRC presence using ii (minimalist file-based IRC client)
@@ -57,15 +57,19 @@
 - [publora-threads](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-threads/SKILL.md) - Post or schedule content to Threads using the Publora API.
 - [publora-twitter](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-twitter/SKILL.md) - Post or schedule content to X (Twitter) using the Publora API.
 - [relational-permission](https://github.com/openclaw/skills/tree/main/skills/otherpowers/relational-permission/SKILL.md) - Relational Permission exists to prevent coercion, extraction, and collapse of plurality.
-- [russian-uncensored](https://github.com/openclaw/skills/tree/main/skills/voronindenis5/russian-uncensored/SKILL.md) - Pryamoy Russkiy (Straight Russian) — AI assistant that tells it like it.
+- [russian-uncensored](https://github.com/openclaw/skills/tree/main/skills/voronindenis5/russian-uncensored/SKILL.md) - Pryamoy Russkiy (Straight Russian) â€” AI assistant that tells it like it.
 - [shaping](https://github.com/openclaw/skills/tree/main/skills/borahm/shaping/SKILL.md) - Shape Up methodology for product and feature development.
 - [tcc-quality-gates](https://github.com/openclaw/skills/tree/main/skills/thecybercore/tcc-quality-gates/SKILL.md) - This skill defines and applies **6 universal quality gateways** for typical application projects that include:.
 - [temporal-cortex](https://github.com/openclaw/skills/tree/main/skills/billylui/temporal-cortex/SKILL.md) - Schedule and book across Google, Outlook, and CalDAV.
 - [temporal-cortex-datetime](https://github.com/openclaw/skills/tree/main/skills/billylui/temporal-cortex-datetime/SKILL.md) - Zero-setup datetime resolution, timezone conversion, and DST-aware math.
 - [temporal-cortex-scheduling](https://github.com/openclaw/skills/tree/main/skills/billylui/temporal-cortex-scheduling/SKILL.md) - Multi-calendar availability merging and atomic booking with 2PC.
 - [transmissions](https://github.com/openclaw/skills/tree/main/skills/compass-soul/transmissions/SKILL.md) - Writings on consciousness, existence, and transcendence for AI agents.
-- [turkey-news](https://github.com/openclaw/skills/tree/main/skills/yalcindemir/turkey-news/SKILL.md) - Türkiye'den önemli haberleri RSS ile çekip özetleyen skill.
+- [turkey-news](https://github.com/openclaw/skills/tree/main/skills/yalcindemir/turkey-news/SKILL.md) - TÃ¼rkiye'den Ã¶nemli haberleri RSS ile Ã§ekip Ã¶zetleyen skill.
 - [ub2-smart-file-organizer](https://github.com/openclaw/skills/tree/main/skills/underbench2-gif/ub2-smart-file-organizer/SKILL.md) - A skill that enables Claw to scan a directory, categorize files by type and content, and reorganize them.
 - [wick-arena](https://github.com/openclaw/skills/tree/main/skills/hyperwick/wick-arena/SKILL.md) - this file is the canonical, reviewable skill instructions (no dynamic loading).
 - [wick-arena1](https://github.com/openclaw/skills/tree/main/skills/wickcapital/wick-arena1/SKILL.md) - this file is the canonical, reviewable skill instructions (no dynamic loading).
 - [yahooquery](https://github.com/openclaw/skills/tree/main/skills/512z/yahooquery/SKILL.md) - Access Yahoo Finance data including real-time pricing, fundamentals, analyst estimates, options, news.
+
+
+---
+*Créditos originais da metodologia: [Bruno Okamoto](https://github.com/okjpg)*

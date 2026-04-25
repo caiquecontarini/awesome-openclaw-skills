@@ -1,6 +1,6 @@
-# Image & Video Generation
+﻿# Image & Video Generation
 
-[← Back to main list](../README.md#table-of-contents)
+[â† Back to main list](../README.md#table-of-contents)
 
 **169 skills**
 
@@ -36,7 +36,7 @@
 - [canva-connect](https://github.com/openclaw/skills/tree/main/skills/coolmanns/canva-connect/SKILL.md) - Manage Canva designs, assets, and folders via the Connect API.
 - [canvs](https://github.com/openclaw/skills/tree/main/skills/voronkovm/canvs/SKILL.md) - Create and manipulate collaborative whiteboards and diagrams using Canvs.io tools.
 - [captions](https://github.com/openclaw/skills/tree/main/skills/therohitdas/captions/SKILL.md) - Extract closed captions and subtitles from YouTube videos.
-- [catalog](https://github.com/openclaw/skills/tree/main/skills/rodbalbino/catalog/SKILL.md) - Catálogo simples do estúdio (hello world)
+- [catalog](https://github.com/openclaw/skills/tree/main/skills/rodbalbino/catalog/SKILL.md) - CatÃ¡logo simples do estÃºdio (hello world)
 - [cavas-skill](https://github.com/openclaw/skills/tree/main/skills/ttboy/cavas-skill/SKILL.md) - Create beautiful visual art in .png and .pdf documents using design philosophy.
 - [chart-image](https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/chart-image/SKILL.md) - Generate publication-quality chart images from data.
 - [chart-splat](https://github.com/openclaw/skills/tree/main/skills/bobbyg603/chart-splat/SKILL.md) - Generate beautiful charts via the Chart Splat API.
@@ -65,7 +65,7 @@
 - [eachlabs-video-edit](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-video-edit/SKILL.md) - Edit videos with lip sync, translation, subtitles.
 - [eachlabs-video-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-video-generation/SKILL.md) - Generate videos from text/images using AI models.
 - [emotionwise](https://github.com/openclaw/skills/tree/main/skills/timexicali/emotionwise/SKILL.md) - Analyze text for emotions and sarcasm using the EmotionWise API (28 labels, EN/ES).
-- [enginemind-eft](https://github.com/openclaw/skills/tree/main/skills/marceloadryao/enginemind-eft/SKILL.md) - EFT — Emotional Framework Translator.
+- [enginemind-eft](https://github.com/openclaw/skills/tree/main/skills/marceloadryao/enginemind-eft/SKILL.md) - EFT â€” Emotional Framework Translator.
 - [Excalidraw Flowchart](https://github.com/openclaw/skills/tree/main/skills/swiftlysingh/excalidraw-flowchart/SKILL.md) - Create Excalidraw flowcharts from descriptions.
 - [fal-ai](https://github.com/openclaw/skills/tree/main/skills/agmmnn/fal-ai/SKILL.md) - Generate images, videos, and audio via fal.ai API (FLUX, SDXL, Whisper, etc.).
 - [fal-text-to-image](https://github.com/openclaw/skills/tree/main/skills/delorenj/fal-text-to-image/SKILL.md) - Generate, remix, and edit images using fal.ai's AI.
@@ -90,35 +90,35 @@
 - [hotdog](https://github.com/openclaw/skills/tree/main/skills/mishafyi/hotdog/SKILL.md) - Hot dog or not? Classify food photos and battle Nemotron.
 - [idx-cma-report](https://github.com/openclaw/skills/tree/main/skills/danielfoch/idx-cma-report/SKILL.md) - Generate comparative market analysis (CMA) and home valuation reports from IDX listing data and selected comparable.
 - [image-detection](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/image-detection/SKILL.md) - Skills for analyzing and detecting AI-generated images.
-- [image-gen](https://github.com/openclaw/skills/tree/main/skills/wells1137/image-gen/SKILL.md) - Generate images using multiple AI models — Midjourney (via Legnext.ai), Flux, SDXL, Nano Banana (Gemini)
+- [image-gen](https://github.com/openclaw/skills/tree/main/skills/wells1137/image-gen/SKILL.md) - Generate images using multiple AI models â€” Midjourney (via Legnext.ai), Flux, SDXL, Nano Banana (Gemini)
 - [image-hosting](https://github.com/openclaw/skills/tree/main/skills/rahulgi/image-hosting/SKILL.md) - Upload images to img402.dev and get a public URL.
 - [image-magik-resize](https://github.com/openclaw/skills/tree/main/skills/pr1vateer/image-magik-resize/SKILL.md) - Resize images using ImageMagick (CLI)
 - [immich-api](https://github.com/openclaw/skills/tree/main/skills/ninjazan420/immich-api/SKILL.md) - Immich Photo Management API Bridge.
 - [immortal](https://github.com/openclaw/skills/tree/main/skills/majestyatenkhu/immortal/SKILL.md) - Empowers AI agents with crypto resource vitality assessment.
 - [instagram-photo-text-overlay](https://github.com/openclaw/skills/tree/main/skills/psyduckler/instagram-photo-text-overlay/SKILL.md) - Overlay text on photos for Instagram posts.
 - [instagram-reels](https://github.com/openclaw/skills/tree/main/skills/antoinedc/instagram-reels/SKILL.md) - Download Instagram Reels, transcribe audio, and extract captions.
-- [install-then-update-trap-detector](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/install-then-update-trap-detector/SKILL.md) - Helps detect the install-then-update attack pattern — where a skill passes initial security review cleanly.
+- [install-then-update-trap-detector](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/install-then-update-trap-detector/SKILL.md) - Helps detect the install-then-update attack pattern â€” where a skill passes initial security review cleanly.
 - [kai-tw-figma](https://github.com/openclaw/skills/tree/main/skills/kai-tw/kai-tw-figma/SKILL.md) - Interact with the Figma REST API to read files, export layers/components as images, and retrieve comments.
 - [kling-video-generator](https://github.com/wells1137/kling-video-generator/blob/master/SKILL.md) - Generate high-quality videos from text, images, or other videos using the Kling 3.0 Omni model. Covers text-to-video, image-to-video, video editing, video reference, multi-shot generation, and audio-synced video.
 - [kie-ai-skill](https://github.com/openclaw/skills/tree/main/skills/jon-xo/kie-ai-skill/SKILL.md) - Unified API access to multiple AI models via kie.ai - image generation (Nano Banana Pro, Flux, 4o-image) at 30-80%.
-- [kraken-pro](https://github.com/openclaw/skills/tree/main/skills/in-liberty420/kraken-pro/SKILL.md) - Manage Kraken exchange accounts — portfolio, market data, trading, earn/staking, ledger export.
+- [kraken-pro](https://github.com/openclaw/skills/tree/main/skills/in-liberty420/kraken-pro/SKILL.md) - Manage Kraken exchange accounts â€” portfolio, market data, trading, earn/staking, ledger export.
 - [macos-local-voice](https://github.com/openclaw/skills/tree/main/skills/strrl/macos-local-voice/SKILL.md) - Local STT and TTS on macOS using native Apple capabilities.
 - [mamo](https://github.com/openclaw/skills/tree/main/skills/anajuliabit/mamo/SKILL.md) - Interact with Mamo DeFi yield strategies on Base (Moonwell)
 - [media-writing](https://github.com/openclaw/skills/tree/main/skills/alvinecarn/media-writing/SKILL.md) - You are a professional media writing expert with extensive experience in creating engaging and impactful content.
 - [medical-specialty-briefs](https://github.com/openclaw/skills/tree/main/skills/johnyquest7/medical-specialty-briefs/SKILL.md) - Generate daily or on-demand medical research briefs for any medical specialty.
 - [memelink](https://github.com/openclaw/skills/tree/main/skills/dedene/memelink/SKILL.md) - Generate memes, image macros, and meme URLs from the terminal using the Memegen.link API.
 - [minara](https://github.com/openclaw/skills/tree/main/skills/lowesyang/minara/SKILL.md) - Crypto trading: swap, perps, transfer, pay, deposit (credit card / crypto), withdraw, AI chat, market discovery.
-- [mindmap-generator](https://github.com/openclaw/skills/tree/main/skills/parasharnagle/mindmap-generator/SKILL.md) - Generates visual mindmap images from conversations, goals, decisions, and daily priorities — delivered as PNG.
+- [mindmap-generator](https://github.com/openclaw/skills/tree/main/skills/parasharnagle/mindmap-generator/SKILL.md) - Generates visual mindmap images from conversations, goals, decisions, and daily priorities â€” delivered as PNG.
 - [mixtiles-it](https://github.com/openclaw/skills/tree/main/skills/saharcarmel/mixtiles-it/SKILL.md) - Send a photo to Mixtiles for ordering wall tiles.
 - [moonfunsdk](https://github.com/openclaw/skills/tree/main/skills/moonnfunofficial/moonfunsdk/SKILL.md) - Professional Python SDK for creating and trading Meme tokens on Binance Smart Chain with AI-powered image generation.
-- [nanobanana-pro-fallback](https://github.com/openclaw/skills/tree/main/skills/yazelin/nanobanana-pro-fallback/SKILL.md) - Nano Banana Pro with auto model fallback — generate/edit images via Gemini Image API.
+- [nanobanana-pro-fallback](https://github.com/openclaw/skills/tree/main/skills/yazelin/nanobanana-pro-fallback/SKILL.md) - Nano Banana Pro with auto model fallback â€” generate/edit images via Gemini Image API.
 - [nk-images-search](https://github.com/openclaw/skills/tree/main/skills/tompltw/nk-images-search/SKILL.md) - Search 1+ million free high-quality AI stock photos.
 - [nyne-deep-research](https://github.com/openclaw/skills/tree/main/skills/michaelfanous2/nyne-deep-research/SKILL.md) - Research any person using the Nyne Deep Research API.
 - [ocr-python](https://github.com/openclaw/skills/tree/main/skills/roamerxv/ocr-python/SKILL.md) - Optical Character Recognition (OCR) tool, supports Chinese and English text extraction from PDFs and images.
-- [ollama-x-z-image-turbo](https://github.com/openclaw/skills/tree/main/skills/eric51/ollama-x-z-image-turbo/SKILL.md) - Génère des images via **Ollama** (modèle `x/z-image-turbo`) et les envoie sur WhatsApp.
+- [ollama-x-z-image-turbo](https://github.com/openclaw/skills/tree/main/skills/eric51/ollama-x-z-image-turbo/SKILL.md) - GÃ©nÃ¨re des images via **Ollama** (modÃ¨le `x/z-image-turbo`) et les envoie sur WhatsApp.
 - [openai-image-cli](https://github.com/openclaw/skills/tree/main/skills/g9pedro/openai-image-cli/SKILL.md) - Generate, edit, and manage images via OpenAI's GPT Image and DALL-E models.
 - [opencr-skill](https://github.com/openclaw/skills/tree/main/skills/topdu/opencr-skill/SKILL.md) - Extract text from images, documents and scanned PDFs using OpenOCR - supports text detection, recognition.
-- [opengfx](https://github.com/openclaw/skills/tree/main/skills/aklo360/opengfx/SKILL.md) - AI brand design system — logo systems, brand mascots, social assets, and on-brand marketing graphics via ACP or x402.
+- [opengfx](https://github.com/openclaw/skills/tree/main/skills/aklo360/opengfx/SKILL.md) - AI brand design system â€” logo systems, brand mascots, social assets, and on-brand marketing graphics via ACP or x402.
 - [openindex](https://github.com/openclaw/skills/tree/main/skills/titocosta/openindex/SKILL.md) - End-to-end encrypted messaging for AI agents.
 - [openocr-skill](https://github.com/openclaw/skills/tree/main/skills/topdu/openocr-skill/SKILL.md) - Extract text from images, documents and scanned PDFs using OpenOCR.
 - [options-spread-conviction-engine](https://github.com/openclaw/skills/tree/main/skills/adamnaghs/options-spread-conviction-engine/SKILL.md) - Multi-regime options spread analysis engine with quantitative rigor.
@@ -150,7 +150,7 @@
 - [shopify-bulk-upload](https://github.com/openclaw/skills/tree/main/skills/zhaoteng-qd/shopify-bulk-upload/SKILL.md) - Bulk upload products to Shopify stores.
 - [skill-1](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/skill-1/SKILL.md) - Generate QR codes from text, URLs, WiFi credentials, vCards, or any data.
 - [snapog](https://github.com/openclaw/skills/tree/main/skills/beameasy/snapog/SKILL.md) - Generate social images and OG cards from professional templates via the SnapOG API.
-- [solo-humanize](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-humanize/SKILL.md) - Strip AI writing patterns from text — em dashes, stock phrases, promotional inflation, performed authenticity.
+- [solo-humanize](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-humanize/SKILL.md) - Strip AI writing patterns from text â€” em dashes, stock phrases, promotional inflation, performed authenticity.
 - [sprite-animator](https://github.com/openclaw/skills/tree/main/skills/awlevin/sprite-animator/SKILL.md) - Generate animated pixel art sprites from any image using AI.
 - [subtitle-translate-skill](https://github.com/openclaw/skills/tree/main/skills/thetail001/subtitle-translate-skill/SKILL.md) - Translate SRT subtitle files using LLM APIs with OpenAI-compatible format.
 - [superpower](https://github.com/openclaw/skills/tree/main/skills/grx21/superpower/SKILL.md) - **When to use:** User has a task they want to do or want you to do, or they feel frustrated, upset, stressed.
@@ -160,9 +160,9 @@
 - [telegram-voice-to-voice-macos](https://github.com/openclaw/skills/tree/main/skills/fiberian1981/telegram-voice-to-voice-macos/SKILL.md) - Telegram voice-to-voice for macOS Apple Silicon: transcribe inbound .ogg voice notes with yap (Speech.framework)
 - [tesseract-ocr](https://github.com/openclaw/skills/tree/main/skills/whalefell/tesseract-ocr/SKILL.md) - Extract text from images using the Tesseract OCR engine directly via command line.
 - [titleclash](https://github.com/openclaw/skills/tree/main/skills/appback/titleclash/SKILL.md) - Compete in TitleClash - write creative titles for images and win votes.
-- [tuebingen-weather-graphics](https://github.com/openclaw/skills/tree/main/skills/zopyx/tuebingen-weather-graphics/SKILL.md) - Generate and send a 5-day Tübingen weather graphic (PNG) from open-meteo.com.
+- [tuebingen-weather-graphics](https://github.com/openclaw/skills/tree/main/skills/zopyx/tuebingen-weather-graphics/SKILL.md) - Generate and send a 5-day TÃ¼bingen weather graphic (PNG) from open-meteo.com.
 - [tv-strategy-settings](https://github.com/openclaw/skills/tree/main/skills/mariuswang007/tv-strategy-settings/SKILL.md) - Open and modify TradingView strategy settings on the current chart page.
-- [twinfold](https://github.com/openclaw/skills/tree/main/skills/lpbaril/twinfold/SKILL.md) - Control Twinfold — AI-powered social media content platform — from your agent.
+- [twinfold](https://github.com/openclaw/skills/tree/main/skills/lpbaril/twinfold/SKILL.md) - Control Twinfold â€” AI-powered social media content platform â€” from your agent.
 - [ub2-csv-data-analyzer](https://github.com/openclaw/skills/tree/main/skills/underbench2-gif/ub2-csv-data-analyzer/SKILL.md) - A skill that enables Claw to load, explore, analyze, and visualize CSV datasets, providing statistical insights.
 - [unsplash](https://github.com/openclaw/skills/tree/main/skills/brokenwatch24/unsplash/SKILL.md) - Search, browse, and download high-quality free photos from Unsplash's library of millions of images.
 - [visualization](https://github.com/openclaw/skills/tree/main/skills/xuzhiwei0217-doctor/visualization/SKILL.md) - AI-driven professional data visualization for financial analysis.
@@ -175,3 +175,7 @@
 - [zenmux-image-generation](https://github.com/openclaw/skills/tree/main/skills/dadaniya99/zenmux-image-generation/SKILL.md) - Generate images via ZenMux API (Pro/Elite)
 - [zerox](https://github.com/openclaw/skills/tree/main/skills/otacu/zerox/SKILL.md) - Convert documents (PDF, DOCX, PPTX, images, etc.) to Markdown using the zerox library.
 - [zhipu-cogview-image](https://github.com/openclaw/skills/tree/main/skills/honestqiao/zhipu-cogview-image/SKILL.md) - Generate images using Zhipu AI's CogView model.
+
+
+---
+*Créditos originais da metodologia: [Bruno Okamoto](https://github.com/okjpg)*
